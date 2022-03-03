@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juddilio
 - 👀 I’m interested in crypto
-- 🌱 I’m currently learning solidity
+- 🌱 I’m currently learning cs fundamentals, js, react and solidity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
