@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @juddilio
+- 👋 Hi, I’m @0xFortes
 - 👀 I’m interested in crypto
 - 🌱 I’m currently learning cs fundamentals, js, react and solidity
 - 💞️ I’m looking to collaborate on ...
