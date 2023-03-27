@@ -1,7 +1,7 @@
 # Hi there👋 Welcome to my Github profile I'm Luís Fortes. 
 
 <p align="center">
-  ![](https://github.com/0xfortes/0xFortes/blob/main/EHil.gif)
+   <img src="https://github.com/0xfortes/0xFortes/blob/main/EHil.gif">
 </p>
 
 
