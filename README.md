@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![Test]((https://thumbs.gfycat.com/PerfumedHandsomeAndeancondor-mobile.mp4))]
+[![](https://thumbs.gfycat.com/PerfumedHandsomeAndeancondor-mobile.mp4)]
 
 Welcome to my Github profile! I'm Luís Fortes, and I'm a Biological Engineering.
 
