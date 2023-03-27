@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![Header](https://github.com/0xfortes/0xfortes/blob/main/header.png "Header")
+[![]((https://thumbs.gfycat.com/PerfumedHandsomeAndeancondor-mobile.mp4))]
 
 Welcome to my Github profile! I'm Luís Fortes, and I'm a Biological Engineering.
 
@@ -40,4 +40,4 @@ I'm a Biological Engineering graduate currently working as a Process Engineer. M
 
 Thank you for visiting my Github profile!```
 
-Make sure to replace the image links with your own, and customize the badges to include your social media profiles. You can find a variety of badges and shields at [shields.io](https://shields.io/). Good luck and have fun!
+
