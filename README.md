@@ -24,8 +24,8 @@ luis.roque.fortes@gmail.com
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LuísFortes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[YourLinkedInURL])](https://www.linkedin.com/in/[YourLinkedInURL]/)
 
-[![Twitter Badge](https://img.shields.io/badge/-Roque-blue?style=flat-square&logo=twitter&logoColor=white&link=[YourTwitterURL])](https://twitter.com/[YourTwitterURL]/)
+[![Twitter Badge](https://img.shields.io/badge/-Roque-blue?style=flat-square&logo=twitter&logoColor=white&link=[YourTwitterURL])](https://twitter.com/@graham_pf/)
 
-Thank you for visiting my Github profile!```
+Thank you for visiting my Github profile!
 
 
