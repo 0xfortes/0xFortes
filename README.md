@@ -1,6 +1,8 @@
 # Hi there👋 Welcome to my Github profile I'm Luís Fortes. 
 
-![](https://github.com/0xfortes/0xFortes/blob/main/EHil.gif)
+<p align="center">
+  ![](https://github.com/0xfortes/0xFortes/blob/main/EHil.gif)
+</p>
 
 
 ## About Me
