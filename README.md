@@ -20,8 +20,8 @@ I'm a Biological Engineering graduate currently working as a Process Engineer. M
 
 ## Get in Touch
 
-<a href="mailto:luis.roque.fortes@gmail.com">
-  <img src="https://icons8.com/icon/85022/envelope"/> 
+<a>
+  <img src="https://icons8.com/icon/63598/envelope"/> luis.roque.fortes@gmail.com
 </a>
 
 [![LinkedIn Badge](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[YourLinkedInURL])](https://www.linkedin.com/in/[YourLinkedInURL]/)
