@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![]((https://github.com/0xfortes/0xFortes/blob/main/J4o.gif))]
+![](https://github.com/0xfortes/0xFortes/blob/main/J4o.gif)
 
 Welcome to my Github profile! I'm Luís Fortes, and I'm a Biological Engineering.
 
