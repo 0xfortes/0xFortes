@@ -20,7 +20,9 @@ I'm a Biological Engineering graduate currently working as a Process Engineer. M
 
 ## Get in Touch
 
-[Insert your social media links and any other contact information you would like to share]
+<a>
+  <img src="https://img.icons8.com/fluent/48/000000/new-post.png"/>
+</a>
 
 [![LinkedIn Badge](https://img.shields.io/badge/-YourName-blue?style=flat&logo=Linkedin&logoColor=white&link=[YourLinkedInURL])](https://www.linkedin.com/in/[YourLinkedInURL]/)
 
