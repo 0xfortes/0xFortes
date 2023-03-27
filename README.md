@@ -1,6 +1,6 @@
 # <p align="center">Hi there👋 I'm Luís Fortes</p> <p align="center">Welcome to my Github profile</p>
 <p align="center">
-   <img src="https://github.com/0xfortes/0xFortes/blob/main/1Kte.gif" style="background: transparent>
+   <img src="https://github.com/0xfortes/0xFortes/blob/main/EHil.gif">
 </p>
 
 
