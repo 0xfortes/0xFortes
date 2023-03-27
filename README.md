@@ -14,7 +14,7 @@ I'm a Biological Engineering graduate currently working as a Process Engineer. M
 
 ## My Projects
 
-[Insert a list of your best and most recent projects with a brief description and a link to the repository]
+
 
 ![Project](https://github.com/[YourUsername]/[YourUsername]/blob/main/project.gif "Project")
 
