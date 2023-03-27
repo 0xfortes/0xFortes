@@ -20,13 +20,11 @@ I'm a Biological Engineering graduate currently working as a Process Engineer. M
 
 ## Get in Touch
 
-<a>
-  <img src="https://icons8.com/icon/63598/envelope.png"/> luis.roque.fortes@gmail.com
-</a>
+luis.roque.fortes@gmail.com
 
-[![LinkedIn Badge](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[YourLinkedInURL])](https://www.linkedin.com/in/[YourLinkedInURL]/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Luís Fortes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[YourLinkedInURL])](https://www.linkedin.com/in/[YourLinkedInURL]/)
 
-[![Twitter Badge](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=twitter&logoColor=white&link=[YourTwitterURL])](https://twitter.com/[YourTwitterURL]/)
+[![Twitter Badge](https://img.shields.io/badge/-Roque-blue?style=flat-square&logo=twitter&logoColor=white&link=[YourTwitterURL])](https://twitter.com/[YourTwitterURL]/)
 
 Thank you for visiting my Github profile!```
 
