@@ -5,10 +5,10 @@
 
 ## About Me
 
-Interests:
-  💻 Software Development  
-  📊 Data
-  🤖 AI/ML
+Interests:  
+💻 Software Development  
+📊 Data  
+🤖 AI/ML  
 
 ## Stack
 
