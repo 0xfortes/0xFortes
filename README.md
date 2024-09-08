@@ -5,7 +5,7 @@
 
 ## About Me
 
-Interests:  
+Interested in:  
 💻 Software Development  
 📊 Data  
 🤖 AI/ML  
