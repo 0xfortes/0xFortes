@@ -39,10 +39,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Luís%20Fortes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-roque-fortes/)](https://www.linkedin.com/in/luis-roque-fortes)
 
-[![Twitter Badge](https://img.shields.io/badge/-Roque-blue?style=flat-square&logo=twitter&logoColor=white&link=[YourTwitterURL])](https://twitter.com/@graham_pf/)
-
 luis.roque.fortes@gmail.com
 
-Thank you for visiting my Github profile!
 
 
