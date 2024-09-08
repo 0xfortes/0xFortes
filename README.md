@@ -5,7 +5,10 @@
 
 ## About Me
 
-Graduate in Biological Engineering, currently working as a Process Engineer and Data Analyst. My current job revolve around project management, data analysis, and process optimization. I have a natural curiosity and a deep passion for technology and during my free time I enjoy learning about Software Development, Data Science, and AI.
+Interested in:
+💻 Software Development
+📊 Data
+🤖 AI/ML
 
 ## Stack
 
