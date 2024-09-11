@@ -4,6 +4,7 @@
 </p>
 
 # About Me:
+A Bioengineer slowly turning into a SW
 
 #### Interests:  
 💻 Software Development  
