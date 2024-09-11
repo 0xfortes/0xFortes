@@ -10,7 +10,7 @@
 📊 Data  
 🤖 AI/ML  
 
-### Currently enrolled:
+#### Enrolled in:  
 Solidity Smart Contracts Development by Cyfrin Updraft  
 Machine Learning Specialization by Andrew Ng
 
