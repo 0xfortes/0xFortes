@@ -4,7 +4,7 @@
 </p>
 
 # About Me:
-A Bioengineer slowly turning into a SW
+A Bioengineer slowly turning into a Dev.
 
 #### Interests:  
 💻 Software Development  
