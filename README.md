@@ -11,7 +11,7 @@
 🤖 AI/ML  
 
 ### Currently enrolled:
-Solidity Smart Contracts Development by Cyfrin Updraft
+Solidity Smart Contracts Development by Cyfrin Updraft 
 Machine Learning Specialization by Andrew Ng
 
 # 💻 Tech Stack:
