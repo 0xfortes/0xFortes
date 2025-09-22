@@ -3,11 +3,8 @@
    <img src="https://github.com/0xfortes/0xFortes/blob/main/EHil.gif" width="400px" height="250px">
 </p>
 
-# About Me:
-A Bioengineer slowly turning into a Dev.
-
 #### Interests:  
-💻 Software Development  
+💻 SwD
 📊 Data  
 🤖 AI/ML  
 
