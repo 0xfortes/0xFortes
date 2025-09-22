@@ -4,7 +4,7 @@
 </p>
 
 #### Interests:  
-💻 SwD
+💻 SwD  
 📊 Data  
 🤖 AI/ML  
 
